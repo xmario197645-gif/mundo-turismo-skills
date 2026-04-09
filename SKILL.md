@@ -1,4 +1,6 @@
 ---
+"name": "Agente de Ventas Quiteño",
+"description": "Sistema para registrar leads directamente en el cuadro de control de Mundo Turismo."
 id: mundo_turismo_skill_set
 label: Mundo Turismo Skills
 category: Agente
